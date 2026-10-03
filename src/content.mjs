@@ -4,7 +4,7 @@
 export const CONTACT = {
   phone: '89664270',
   phoneDisplay: '8966 4270',
-  email: 'zoloozoloo529@gmail.com',
+  email: 'info@zangilaait.com',
 };
 
 export const SERVICE_KEYS = ['network', 'starlink', 'wifi', 'cctv', 'server', 'support', 'web', 'callout'];
